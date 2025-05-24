@@ -1,0 +1,27 @@
+{
+  "name": "FileTreeRoot",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Notes",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Chapter1",
+          "type": "file",
+          "url": "/yourLibrary/Notes-Chapter1"
+        }
+      ]
+    },
+    {
+      "name": "fgs",
+      "type": "file",
+      "url": "/yourLibrary/fgs"
+    },
+    {
+      "name": "fgd",
+      "type": "file",
+      "url": "/yourLibrary/fgd"
+    }
+  ]
+}
